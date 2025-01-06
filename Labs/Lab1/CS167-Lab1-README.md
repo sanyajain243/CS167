@@ -2,10 +2,10 @@
 
 ## Student information
 
-* Full name:
-* E-mail:
-* UCR NetID:
-* Student ID:
+* Full name: Sanya Jain
+* E-mail: sjain045@ucr.edu
+* UCR NetID: sjain045
+* Student ID: 862273158
 
 ## Answers
 
